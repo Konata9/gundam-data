@@ -2,8 +2,9 @@
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)]()
 [![0079](https://img.shields.io/badge/0079-104-blue.svg?style=flat-square)]()
-[![0079](https://img.shields.io/badge/Z-preparing-green.svg?style=flat-square)]()
-[![0079](https://img.shields.io/badge/0093-preparing-green.svg?style=flat-square)]()
+[![0079](https://img.shields.io/badge/Z-143-blue.svg?style=flat-square)]()
+[![0079](https://img.shields.io/badge/0093-39-blue.svg?style=flat-square)]()
+[![0079](https://img.shields.io/badge/sp-2-blue.svg?style=flat-square)]()
 
 [English](./Readme_en.md)
 

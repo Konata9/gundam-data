@@ -53,12 +53,12 @@ No | key/colume | meaning
 ## App
 **Wechat small program：** 夏亚每日一言
 
-![](./img/gundam-line-weapp.jpg)
+![](./img/wechat-app.jpg)
 
 ## Personal Offical account
 **Wechat personal offical account：** 此方的手账（可扫码进入）
 
-![](./img/qrcode.jpg)
+![](./img/wechat-qr.jpg)
 
 ## License
 [MIT](./LICENSE)License

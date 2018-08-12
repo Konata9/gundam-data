@@ -53,12 +53,12 @@ No | 列（キー） | 意義
 ## 関連アプリ
 **WeChatアプリ：** 夏亚每日一言 (下のコードでスキャン)
 
-![](./img/gundam-line-weapp.jpg)
+![](./img/wechat-app.jpg)
 
 ## 個人公式アカウント
 **WeChat個人公式アカウント：** 此方的手账（下のコードでスキャン）
 
-![](./img/qrcode.jpg)
+![](./img/wechat-qr.jpg)
 
 ## License
 [MIT](./LICENSE)ライセンス

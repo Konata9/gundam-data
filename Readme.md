@@ -57,14 +57,14 @@ gundam_lines_系列名_出自人物（罗马音）.json/sql
 ## 相关应用
 **微信小程序：** 夏亚每日一言 (可直接扫码进入)
 
-![](./img/gundam-line-weapp.jpg)
+![](./img/wechat-app.jpg)
 
 ## 公众号
 **微信个人公众号：** 此方的手账（可扫码进入）
 
 目前已“夏亚名台词”系列为主，每周三更新。不定期更新模型测评以及技术文章。
 
-![](./img/qrcode.jpg)
+![](./img/wechat-qr.jpg)
 
 ## License
 [MIT](./LICENSE)许可证
